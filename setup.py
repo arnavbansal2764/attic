@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 *-*
-import os
-import sys
+import os  #import OS module
+import sys #import sys module
 from glob import glob
 
 import versioneer
